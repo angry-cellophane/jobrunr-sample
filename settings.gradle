@@ -1,0 +1,3 @@
+rootProject.name = 'jobrunr-sample'
+
+include ':worker'
